@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying enginnering in Electr0nics and Communication Engineering
 - 🌱 I’m currently learning ... Java
--
+
 
 ![Jerish's github stats](https://github-readme-stats.vercel.app/api?username=jerish304)
 
